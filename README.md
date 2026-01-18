@@ -14,7 +14,7 @@ Sistema de controle de biblioteca desenvolvido em **C# .NET 8**, permitindo o ca
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/BibliotecaApi.git
+git clone https://github.com/Everton-Buenno/BibliotecaApi.git
 cd BibliotecaApi
 ```
 
